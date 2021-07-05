@@ -8,7 +8,7 @@ I am an undergraduate software engineer. I am passionate about technology and al
 
 ## ⚡ Things I know
 
-Here are a few things I've picked up along my learning journey. (Needs Update)
+Here are a few things I've picked up along my learning journey. 
 
    - Main stuff
    
