@@ -15,6 +15,7 @@ Here are a few things I've picked up along my learning journey. (Needs Update)
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
    
    - I also learned bunch of stuff which is a big list to be here but I will put it :)
+      - Flutter Framework
       - Git and GitHub 
       - Linux CLI & advanced topics 
       - Technical issues Troubleshooting 
