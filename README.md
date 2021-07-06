@@ -23,7 +23,7 @@ Here are a few things I've picked up along my learning journey.
       - Cloud Computing and Virtualization(HCIA cloud computing Certified)
       - WordPress - With Domain DNS Management & hosting skills(Cpanel management), Brief DB skills(Not editing the db itself yet).
       - Android Application Development
-      - Photoshop, illustrator, After Effect, Premiere Pro
+      - Photoshop, illustrator, After Effect, Premiere Pro, and adobe xd
       - SEO & improvement
       - basic bash shell scripting
       - Network Attacks and Security (No EGO, Script Kiddie, LOL)
