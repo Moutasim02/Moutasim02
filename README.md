@@ -1,3 +1,6 @@
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Moutasim02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" hspace=15/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moutasim02&theme=tokyonight&show_icons=true&layout=compact" /></p>
+
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Moutasim El Ayoubi 👨‍💻
 
@@ -15,7 +18,6 @@ Here are a few things I've picked up along my learning journey.
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
    
    - I also learned bunch of stuff which is a big list to be here but I will put it :)
-      - Flutter Framework
       - Git and GitHub 
       - Linux CLI & advanced topics 
       - Technical issues Troubleshooting 
@@ -23,6 +25,7 @@ Here are a few things I've picked up along my learning journey.
       - Cloud Computing and Virtualization(HCIA cloud computing Certified)
       - WordPress - With Domain DNS Management & hosting skills(Cpanel management), Brief DB skills(Not editing the db itself yet).
       - Android Application Development
+      - Flutter Framework
       - Photoshop, illustrator, After Effect, Premiere Pro, and adobe xd
       - SEO & improvement
       - basic bash shell scripting
