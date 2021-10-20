@@ -18,19 +18,18 @@ Here are a few things I've picked up along my learning journey.
    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
    
    - I also learned bunch of stuff which is a big list to be here but I will put it :)
-      - Git and GitHub 
-      - Linux CLI & advanced topics 
-      - Technical issues Troubleshooting 
-      - Android software fixing 
-      - Cloud Computing and Virtualization(HCIA cloud computing Certified)
-      - WordPress - With Domain DNS Management & hosting skills(Cpanel management), Brief DB skills(Not editing the db itself yet).
-      - Android Application Development
-      - Flutter Framework
-      - Photoshop, illustrator, After Effect, Premiere Pro, and adobe xd
-      - SEO & improvement
-      - basic bash shell scripting
-      - Network Attacks and Security (No EGO, Script Kiddie, LOL)
-      - Blogging (used too...)
+      - Git and GitHub. 
+      - Linux CLI & advanced topics (Main OS).
+      - Technical issues Troubleshooting.
+      - Android Expert.
+      - Cloud Computing and Virtualization(HCIA cloud computing Certified).
+      - WordPress, Brief DB skills(Under Development).
+      - Flutter Framework.
+      - Photoshop, illustrator, After Effect, Premiere Pro, and adobe xd.
+      - SEO & improvement.
+      - bash shell scripting.
+      - Network Attacks and Security (No EGO, Script Kiddie, LOL).
+      - Blogging (used too...).
   
 
 <!-- On the way: ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
