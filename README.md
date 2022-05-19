@@ -43,10 +43,11 @@ Main Programming Language:  ![Java](https://img.shields.io/badge/Java-ED8B00?sty
       - Git and GitHub. 
       - Technical issues Troubleshooting.
       - Cloud Computing and Virtualization(HCIA cloud computing Certified).
-      - WordPress, Brief DB skills(Under Development).
-      - Photoshop, illustrator, After Effect, Premiere Pro, and adobe xd.
+      - WordPress
+      - Oracle SQL
+      - Photoshop, illustrator, After Effect, Premiere Pro, and Adobe Xd.
       - SEO & improvement.
-      - Network Attacks and Security (No EGO, Script Kiddie, LOL).
+      - Network Attacks and Security.
       - Blogging (used to)... 
 
 
