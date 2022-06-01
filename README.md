@@ -6,7 +6,7 @@
 
 I am an undergraduate software engineer. I am passionate about technology and always love to learn new things.
   
-- 🔭 I’m currently working on **improving my self**
+- 🔭 I’m currently looking into an opportunity.
 
 - 📫 How to reach me **moutasim9997@gmail.com**
 
