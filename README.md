@@ -14,7 +14,7 @@ I am an undergraduate software engineer. I am passionate about technology and al
 ## 📫 Get in touch
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Moutasim_Ayoubi)   [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/moutasim)
 
- or contact me via a quick ![mail](mailto:moutasim9997@gmail.com) .
+ or contact me via a quick [mail](mailto:"moutasim9997@gmail.com") .
 ## ⚡ Things I know
 
 Here are a few things I've picked up along my learning journey. 
