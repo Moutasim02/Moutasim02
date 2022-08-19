@@ -38,16 +38,14 @@ Here are a few things I've picked up along my learning journey.
 
 Main Programming Language:  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) 
    
-   - Here are some general stuff I learned:
+   - General:
       - Git and GitHub. 
-      - Technical issues Troubleshooting.
+      - Linux
       - Cloud Computing and Virtualization(HCIA cloud computing Certified).
       - WordPress
-      - Oracle SQL
-      - Photoshop, illustrator, After Effect, Premiere Pro, and Adobe Xd.
-      - SEO & improvement.
-      - Network Attacks and Security.
-      - Blogging (used to)... 
+      - Oracle SQL, MySQL
+      - Photoshop, Illustrator, After Effect, Premiere Pro, and Adobe Xd.
+      - Financial Accounting
 
 
 
