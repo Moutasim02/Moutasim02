@@ -1,7 +1,7 @@
-<!-- <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Moutasim02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/> 
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Moutasim02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moutasim02&theme=tokyonight&show_icons=true&layout=compact" /></p>
 
- -->
+
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">Hi, I am Moutasim El Ayoubi 👨‍💻
 
 I am an undergraduate software engineer. I am passionate about technology and always love to learn new things.
