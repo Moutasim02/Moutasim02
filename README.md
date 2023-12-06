@@ -46,15 +46,9 @@ Main Programming Language: Flexible to work in any language but considers Java a
    
    - General Skills:
       - Git and GitHub. 
-      - Linux
+      - Advanced Linux
       - Cloud Computing and Virtualization(HCIA cloud computing Certified).
       - WordPress
-      - Oracle SQL, MySQL
       - Photoshop, Illustrator, After Effect, Premiere Pro, and Adobe Xd.
       - Financial Accounting
 
-
-<!-- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
- -->
