@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="25px" height="25px">Hi, I am Moutasim El Ayoubi 👨‍💻
 
-I am an undergraduate software engineer. I am passionate about technology and always love to learn new things.
+I am a software engineer. I am passionate about technology and always love to learn new things.
   
 - 🔭 I’m currently looking for an opportunity to learn and apply my skills.
 
