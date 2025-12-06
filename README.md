@@ -36,7 +36,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Software & Network Engineer** and **Published Researcher** with expertise in building scalable applications, securing network infrastructures, and advancing AI/ML applications. Currently pursuing my degree at **Abu Dhabi University** and the intensive **42 Abu Dhabi** program.
+I am a passionate **Software & Network Engineer** and **Published Researcher** with expertise in building scalable applications, securing network infrastructures, and advancing AI/ML applications. Finished my degree at **Abu Dhabi University** and some of the intensive projects in **42 Abu Dhabi** program.
 
 - 🔭 **Current Role:** Software & Network Engineer
 - 🌱 **Exploring:** Advanced Cloud Architecture, Spring Framework, MERN Stack, Low-level Programming
