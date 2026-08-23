@@ -27,13 +27,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Moutasim02&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Moutasim02&theme=tokyonight&show_icons=true&layout=compact&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 I am a passionate **Software & Network Engineer** and **Published Researcher** with expertise in building scalable applications, securing network infrastructures, and advancing AI/ML applications. Finished my degree at **Abu Dhabi University** and some of the intensive projects in **42 Abu Dhabi** program.
